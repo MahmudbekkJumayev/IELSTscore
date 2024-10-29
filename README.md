@@ -8,6 +8,6 @@ This project calculates the overall IELTS score based on the user's input scores
 - Round the score to the nearest half or whole number as per IELTS rounding rules
 
 
-## project code 
+## project source code 
 
 ![Screenshot of the Code](images/carbon.png)
