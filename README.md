@@ -10,4 +10,4 @@ This project calculates the overall IELTS score based on the user's input scores
 
 ## project code 
 
-![Screenshot of the Code](images/carbon)
+![Screenshot of the Code](images/carbon.png)
